@@ -25,7 +25,10 @@ A modern, Model-View-Controller (MVC) based web application developed for managi
 
 To run this project on your local machine, you must configure the database settings to match your MySQL credentials.
 
+
 ### 1. Database Setup
+
+**make sure to use your own database username and password**
 First, create your database and the required table using the following SQL script:
 
 ```sql
