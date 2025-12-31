@@ -1,0 +1,6 @@
+com\student\dao\StudentDAO.class
+com\srs\studentregistrationsystem\JakartaRestConfiguration.class
+com\student\util\DBConnection.class
+com\srs\resources\JakartaEE11Resource.class
+com\student\controller\StudentServlet.class
+com\student\model\Student.class
